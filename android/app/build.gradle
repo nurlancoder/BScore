@@ -81,9 +81,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace 'com.anonymous.bizora'
+    namespace 'com.anonymous.bscore'
     defaultConfig {
-        applicationId 'com.anonymous.bizora'
+        applicationId 'com.anonymous.bscore'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

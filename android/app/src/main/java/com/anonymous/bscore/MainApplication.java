@@ -1,4 +1,4 @@
-package com.anonymous.bizora;
+package com.anonymous.bscore;
 
 import android.app.Application;
 import android.content.res.Configuration;

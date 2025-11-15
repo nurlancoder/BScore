@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Bizora",
-    "slug": "bizora",
+    "name": "BScore",
+    "slug": "bscore",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/score logo.png",
@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/score logo.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.anonymous.bizora"
+      "package": "com.anonymous.bscore"
     },
     "web": {
       "favicon": "./assets/score logo.png"
