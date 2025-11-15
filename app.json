@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Bizora",
+    "slug": "bizora",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/score logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/score logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/score logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.bizora"
+    },
+    "web": {
+      "favicon": "./assets/score logo.png"
+    }
+  }
+}
